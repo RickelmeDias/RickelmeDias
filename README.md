@@ -1,6 +1,6 @@
 <div><br>
   <div style="display: inline_block" align="center">
-    <img src="./code-icon.svg" height="120em"/>
+    <a href="#"><img src="./code-icon.svg" height="120em"/></a>
 
     < Olá a todos, Eu sou Rickelme e bem-vindo ao meu perfil do github. 🚀 />
     < Hi everyone, I'm Rickelme and welcome to my github profile. 🚀 />
