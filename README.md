@@ -44,7 +44,7 @@ console.log(Me.informations);
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/RickelmeDias">
     <img src="./spirited-away-steam-wallpaper.gif" height="140em" style="border-radius: 10em;" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickelmeDias&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="140em" src=""/>
     <img height="140em" alt="Rickelme draw" src="https://user-images.githubusercontent.com/43411893/127868207-79fc5204-8d61-47b9-aa82-f45fd3fd2eef.png"/>
   </a><br>
 </div>
