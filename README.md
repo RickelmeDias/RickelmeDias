@@ -23,7 +23,7 @@ class Developer {
     constructor() {
       this.name  = "Rickelme Dias";
       this.born  = 2000;
-      this.techs = ["Javascript", "Typescript", "Node.js", { "Frameworks": ["React.js", "Vue.js", "Express.js"] }];
+      this.techs = ["Javascript", "Typescript", "Java", "Node.js", "...And more knowledges"];
       this.portfolio = "https://rickelmedias.dev";
     }
     
