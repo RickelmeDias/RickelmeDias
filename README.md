@@ -1,3 +1,7 @@
+<div style="display: inline_block" align="center">
+  <h2> Rickelme Dias </h2>
+</div>
+
 <div><br>
   <div style="display: inline_block" align="center">
     <a href="#"><img src="./code-icon.svg" height="120em"/></a>
@@ -6,13 +10,12 @@
     < Hi everyone, I'm Rickelme and welcome to my github profile. 🚀 />
   </div>
 </div>
+                     
+</br>
+                     
+### 👨🏻‍💻 About me:
 
-
-<br>
-
-![image](https://user-images.githubusercontent.com/43411893/143626490-aa56ea5a-e484-4edd-bc5a-747756d2040d.png)
-
-<br>
+</br>
 
 ```javascript
 
@@ -41,19 +44,55 @@ console.log(Me.informations);
 
 ```
 
-<div style="display: inline_block" align="center"><br>
-  <a href="https://github.com/RickelmeDias">
-    <img src="./spirited-away-steam-wallpaper.gif" height="140em" style="border-radius: 10em;" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickelmeDias&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="140em" alt="Rickelme draw" src="https://user-images.githubusercontent.com/43411893/127868207-79fc5204-8d61-47b9-aa82-f45fd3fd2eef.png"/>
-  </a><br>
-</div>
+</br>
+                     
+### 📚 Knowledge:
 
-<br><br><br>
-</div>
+#### Strong languages
+                     
+[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />][ts]
+[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />][js]
+[<img height="32em" alt="Rickelme tem conhecimento em Node" src="https://www.svgrepo.com/show/355140/node.svg" />][node]
+[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Java" src="https://www.svgrepo.com/show/184143/java.svg" />][java]
 
-##
+#### Learning to be strong
+                     
+[<img height="32em" alt="Rickelme esta aprendendo Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]
+[<img height="32em" alt="Rickelme esta aprendendo Angular Framework" src="https://www.svgrepo.com/show/373427/angular.svg" />][angular]
 
-<div> 
+#### Enthusiast
 
-</div>
+[<img height="32em" alt="Rickelme tem conhecimento em Linguagem C" src="https://www.svgrepo.com/show/353528/c.svg" />][c-lang]
+[<img height="32em" alt="Rickelme tem conhecimento em Linguagem CPP" src="https://www.svgrepo.com/show/353614/c-plusplus.svg" />][cpp]
+[<img height="32em" alt="Rickelme tem conhecimento em Arduino" src="https://www.svgrepo.com/show/353423/arduino.svg" />][ino]
+
+#### More knowledges
+
+[<img height="32em" alt="Rickelme tem conhecimento básico em React" src="https://www.svgrepo.com/show/354259/react.svg" />][react]
+[<img height="32em" alt="Rickelme tem conhecimento básico em NestJS" src="https://www.svgrepo.com/show/354107/nestjs.svg" />][nest]
+[<img height="32em" alt="Rickelme tem conhecimento básico em Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />][jest]
+[<img height="32em" alt="Rickelme tem conhecimento em PostgreSQL" src="https://www.svgrepo.com/show/354200/postgresql.svg" />][postgresql]
+[<img height="32em" alt="Rickelme tem conhecimento em HTML" src="https://www.svgrepo.com/show/349402/html5.svg" />][html]
+[<img height="32em" alt="Rickelme tem conhecimento em CSS" src="https://www.svgrepo.com/show/349330/css3.svg" />][css]
+[<img height="32em" alt="Rickelme tem conhecimento básico no uso de docker" src="https://www.svgrepo.com/show/331370/docker.svg" />][docker]
+[<img height="32em" alt="Rickelme tem conhecimento em trabalhar com VSCODE IDE" src="https://www.svgrepo.com/show/374171/vscode.svg" />][vscode]
+[<img height="32em" alt="Rickelme tem conhecimento na utilização de figma" src="https://www.svgrepo.com/show/354987/figma.svg" />][vscode]
+
+[ts]:https://www.typescriptlang.org/docs/
+[js]:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[node]:https://nodejs.org/en/docs/
+[java]:https://docs.oracle.com/en/java/
+[spring]:https://docs.spring.io/spring-framework/docs/current/reference/html/
+[angular]:https://angular.io/docs
+[c-lang]:https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170
+[cpp]:https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170
+[ino]:https://docs.arduino.cc/
+[react]:https://pt-br.reactjs.org/docs/getting-started.html
+[nest]:https://docs.nestjs.com/
+[jest]:https://jestjs.io/pt-BR/docs/getting-started
+[postgresql]:https://www.postgresql.org/docs/
+[html]:https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[css]:https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[docker]:https://docs.docker.com/
+[vscode]:https://code.visualstudio.com/docs
+[figma]:https://help.figma.com/hc/en-us
