@@ -55,7 +55,7 @@ console.log(Me.informations);
 [<img height="32em" alt="Rickelme tem conhecimento em Node" src="https://www.svgrepo.com/show/355140/node.svg" />][node]
 [<img height="32em" alt="Rickelme tem conhecimento em Linguagem Java" src="https://www.svgrepo.com/show/184143/java.svg" />][java]
 
-#### Learning to be strong
+#### Improving
                      
 [<img height="32em" alt="Rickelme esta aprendendo Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]
 
