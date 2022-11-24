@@ -58,16 +58,10 @@ console.log(Me.informations);
 #### Learning to be strong
                      
 [<img height="32em" alt="Rickelme esta aprendendo Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]
-[<img height="32em" alt="Rickelme esta aprendendo Angular Framework" src="https://www.svgrepo.com/show/373427/angular.svg" />][angular]
-
-#### Enthusiast
-
-[<img height="32em" alt="Rickelme tem conhecimento em Linguagem C" src="https://www.svgrepo.com/show/353528/c.svg" />][c-lang]
-[<img height="32em" alt="Rickelme tem conhecimento em Linguagem CPP" src="https://www.svgrepo.com/show/353614/c-plusplus.svg" />][cpp]
-[<img height="32em" alt="Rickelme tem conhecimento em Arduino" src="https://www.svgrepo.com/show/353423/arduino.svg" />][ino]
 
 #### More knowledges
-
+                     
+[<img height="32em" alt="Rickelme esta aprendendo Angular Framework" src="https://www.svgrepo.com/show/373427/angular.svg" />][angular]
 [<img height="32em" alt="Rickelme tem conhecimento básico em React" src="https://www.svgrepo.com/show/354259/react.svg" />][react]
 [<img height="32em" alt="Rickelme tem conhecimento básico em NestJS" src="https://www.svgrepo.com/show/354107/nestjs.svg" />][nest]
 [<img height="32em" alt="Rickelme tem conhecimento básico em Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />][jest]
