@@ -2,7 +2,7 @@
   Hello, I'm Rickelme Dias! <img src="https://user-images.githubusercontent.com/43411893/208497911-d8994cd0-976a-4b54-aebc-daa2f5a2f05a.gif" width="50">
 </h2>
 <img align='right' src="./code-icon.svg" width="230">
-<p><em>Software Developer</em></p>
+<p><em>Software Developer at Bosch Brazil as Researcher with Scholarship</em></p>
 
 ```java
 public class Me {
