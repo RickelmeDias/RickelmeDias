@@ -1,77 +1,58 @@
-<div style="display: inline_block" align="center">
-  <h2> Rickelme Dias </h2>
-</div>
+<h2>
+  Hello, I'm Rickelme Dias! <img src="https://user-images.githubusercontent.com/43411893/208497911-d8994cd0-976a-4b54-aebc-daa2f5a2f05a.gif" width="50">
+</h2>
+<img align='right' src="./code-icon.svg" width="230">
+<p><em>Software Developer</em></p>
 
-<div><br>
-  <div style="display: inline_block" align="center">
-    <a href="#"><img src="./code-icon.svg" height="120em"/></a>
-
-    < Olá a todos, Eu sou Rickelme e bem-vindo ao meu perfil do github. 🚀 />
-    < Hi everyone, I'm Rickelme and welcome to my github profile. 🚀 />
-  </div>
-</div>
-                     
-</br>
-                     
-### 👨🏻‍💻 About me:
-
-</br>
-
-```javascript
-
-class Developer {
-    constructor() {
-      this.name  = "Rickelme Dias";
-      this.born  = 2000;
-      this.techs = ["Javascript", "Typescript", "Java", "Node.js", "...And more knowledges"];
-      this.portfolio = "https://rickelmedias.dev";
-    }
-    
-    get informations() {
-        const today = new Date();
-
-        return (
-        `Meu nome é ${this.name} tenho ${today.getFullYear() - this.born} anos e amo tecnologia.` +
-        `Atualmente minhas principais tecnologias são voltadas para front-end, são elas: ${this.techs[0]} e ${this.techs[1]}.` +
-        `Apesar de ter como foco o front-end também gosto de diversas áreas da tecnologia, como o back-end.` +
-        `Fique a vontade para me chamar para conversar! Mais informações, inclusive de contato, no meu portfolio: ${this.portfolio}.`
-        );
-    }
+```java
+public class Me {
+  String name = "Rickelme Dias";
+  int age = 22;
+  String[] programming = { "Java", "Javascript", "Typescript", "C", "C++", "Python" };
+  String[] frameworks = { "Spring", "React.js", "Angular 9", "Scrum" };
+  String[] systems = { "Windows", "Ubuntu", "Arch" };
+  String[] languages = { "Portuguese", "English" };
 }
-
-const Me = new Developer();
-console.log(Me.informations);
-
 ```
 
-</br>
-                     
-### 📚 Knowledge:
+---
 
-#### Strong languages
-                     
-[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />][ts]
-[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />][js]
-[<img height="32em" alt="Rickelme tem conhecimento em Node" src="https://www.svgrepo.com/show/355140/node.svg" />][node]
-[<img height="32em" alt="Rickelme tem conhecimento em Linguagem Java" src="https://www.svgrepo.com/show/184143/java.svg" />][java]
+### 📚 Experiences & Knowledges
 
-#### Improving
-                     
-[<img height="32em" alt="Rickelme esta aprendendo Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]
+#### Main technologies
+[<img height="32em" alt="Rickelme knows Java" src="https://www.svgrepo.com/show/184143/java.svg" />][java]
+[<img height="32em" alt="Rickelme knows Maven" src="https://www.svgrepo.com/show/373829/maven.svg" />][maven]
+[<img height="32em" alt="Rickelme knows Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]
+[<img height="32em" alt="Rickelme knows Typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />][ts]
+[<img height="32em" alt="Rickelme knows Javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />][js]
+[<img height="32em" alt="Rickelme knows Node" src="https://www.svgrepo.com/show/378837/node.svg" />][node]
 
-#### More knowledges
-                     
-[<img height="32em" alt="Rickelme esta aprendendo Angular Framework" src="https://www.svgrepo.com/show/373427/angular.svg" />][angular]
-[<img height="32em" alt="Rickelme tem conhecimento básico em React" src="https://www.svgrepo.com/show/354259/react.svg" />][react]
-[<img height="32em" alt="Rickelme tem conhecimento básico em NestJS" src="https://www.svgrepo.com/show/354107/nestjs.svg" />][nest]
-[<img height="32em" alt="Rickelme tem conhecimento básico em Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />][jest]
-[<img height="32em" alt="Rickelme tem conhecimento em PostgreSQL" src="https://www.svgrepo.com/show/354200/postgresql.svg" />][postgresql]
-[<img height="32em" alt="Rickelme tem conhecimento em HTML" src="https://www.svgrepo.com/show/349402/html5.svg" />][html]
-[<img height="32em" alt="Rickelme tem conhecimento em CSS" src="https://www.svgrepo.com/show/349330/css3.svg" />][css]
-[<img height="32em" alt="Rickelme tem conhecimento básico no uso de docker" src="https://www.svgrepo.com/show/331370/docker.svg" />][docker]
-[<img height="32em" alt="Rickelme tem conhecimento em trabalhar com VSCODE IDE" src="https://www.svgrepo.com/show/374171/vscode.svg" />][vscode]
-[<img height="32em" alt="Rickelme tem conhecimento na utilização de figma" src="https://www.svgrepo.com/show/354987/figma.svg" />][vscode]
 
+#### I already maintained too
+[<img height="32em" alt="Rickelme knows PostgreSQL" src="https://www.svgrepo.com/show/354200/postgresql.svg" />][postgresql]
+[<img height="32em" alt="Rickelme knows MariaDB" src="https://www.svgrepo.com/show/373824/mariadb.svg" />][mariadb]
+[<img height="32em" alt="Rickelme knows Docker" src="https://www.svgrepo.com/show/331370/docker.svg" />][docker]
+[<img height="32em" alt="Rickelme knows Azure Cloud" src="https://www.svgrepo.com/show/331302/azure-v2.svg" />][docker]
+[<img height="32em" alt="Rickelme learned and knows utilização de figma" src="https://www.svgrepo.com/show/354987/figma.svg" />][figma]
+
+[<img height="32em" alt="Rickelme learned and knows Angular Framework" src="https://www.svgrepo.com/show/373427/angular.svg" />][angular]
+[<img height="32em" alt="Rickelme is learning and knows React" src="https://www.svgrepo.com/show/354259/react.svg" />][react]
+[<img height="32em" alt="Rickelme learned and knows Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />][jest]
+[<img height="32em" alt="Rickelme learned HTML" src="https://www.svgrepo.com/show/349402/html5.svg" />][html]
+[<img height="32em" alt="Rickelme learned CSS" src="https://www.svgrepo.com/show/349330/css3.svg" />][css]
+
+
+#### I already studied about _(at University, Research Group, Competitive Programming and Projects)_
+
+[<img height="32em" alt="Rickelme knows MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg" />][mongodb]
+[<img height="32em" alt="Rickelme knows SQLServer" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />][sqs]
+[<img height="32em" alt="Rickelme knows NestJS" src="https://www.svgrepo.com/show/354238/python.svg" />][py]
+[<img height="32em" alt="Rickelme knows Python" src="https://www.svgrepo.com/show/373528/cpp3.svg" />][cpp]
+[<img height="32em" alt="Rickelme knows UML or PlantUML" src="https://www.svgrepo.com/show/373977/plantuml.svg" />][uml]
+[<img height="32em" alt="Rickelme knows Cucumber" src="https://www.svgrepo.com/show/353625/cucumber.svg" />][cucumber]
+[<img height="32em" alt="Rickelme knows Swagger" src="https://www.svgrepo.com/show/354420/swagger.svg" />][swagger]
+
+[maven]:https://maven.apache.org/
 [ts]:https://www.typescriptlang.org/docs/
 [js]:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [node]:https://nodejs.org/en/docs/
@@ -82,11 +63,16 @@ console.log(Me.informations);
 [cpp]:https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170
 [ino]:https://docs.arduino.cc/
 [react]:https://pt-br.reactjs.org/docs/getting-started.html
-[nest]:https://docs.nestjs.com/
+[uml]:https://www.svgrepo.com/show/373977/plantuml.svg
 [jest]:https://jestjs.io/pt-BR/docs/getting-started
 [postgresql]:https://www.postgresql.org/docs/
 [html]:https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [css]:https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [docker]:https://docs.docker.com/
-[vscode]:https://code.visualstudio.com/docs
 [figma]:https://help.figma.com/hc/en-us
+[mongodb]:https://www.mongodb.com/
+[mariadb]:https://mariadb.org/
+[sqs]:https://www.microsoft.com/pt-br/sql-server
+[py]:https://www.python.org/
+[cucumber]:https://cucumber.io/
+[swagger]:https://swagger.io/
