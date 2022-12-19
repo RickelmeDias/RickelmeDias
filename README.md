@@ -28,7 +28,7 @@ public class Me {
 [<img height="32em" alt="Rickelme knows Node" src="https://www.svgrepo.com/show/378837/node.svg" />][node]
 
 
-#### I already maintained too _(Sometimes I support)
+#### I already maintained too _(Sometimes I support)_
 [<img height="32em" alt="Rickelme knows PostgreSQL" src="https://www.svgrepo.com/show/354200/postgresql.svg" />][postgresql]
 [<img height="32em" alt="Rickelme knows MariaDB" src="https://www.svgrepo.com/show/373824/mariadb.svg" />][mariadb]
 [<img height="32em" alt="Rickelme knows Docker" src="https://www.svgrepo.com/show/331370/docker.svg" />][docker]
