@@ -1,8 +1,6 @@
 <h2 align='center'>Rickelme Dias</h2>
 
-> Hello, visitor! Welcome to a Software Developer and Engineer GitHub. I work and study with software for many years. Feel free to explore my projects, skills and contact me.
-
-<br>
+> Hello, visitor! Welcome to a Software Developer and Engineer GitHub. I work and study with software for many years.
 
 <img align='right' src="./spin-pokemon-yellow.gif" width="280" >
 
@@ -21,7 +19,6 @@
 ##### More Skills
 [<img height="32em" alt="Rickelme knows C++" src="https://www.svgrepo.com/show/373528/cpp3.svg" />][cpp]
 [<img height="32em" alt="Rickelme knows Python" src="https://www.svgrepo.com/show/354238/python.svg" />][py]
-
 
 [ts]:https://www.typescriptlang.org/docs/
 [js]:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
