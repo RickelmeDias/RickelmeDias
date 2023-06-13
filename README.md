@@ -4,6 +4,8 @@
 
 <img align='right' src="./spin-pokemon-yellow.gif" width="280" >
 
+<div>
+  
 ##### Currently Working
 [<img height="32em" alt="Rickelme knows Java" src="https://www.svgrepo.com/show/184143/java.svg" />][java]
 [<img height="32em" alt="Rickelme knows Spring Framework" src="https://www.svgrepo.com/show/376350/spring.svg" />][spring]&nbsp;&nbsp;
@@ -20,6 +22,8 @@
 [<img height="32em" alt="Rickelme knows C++" src="https://www.svgrepo.com/show/373528/cpp3.svg" />][cpp]
 [<img height="32em" alt="Rickelme knows Python" src="https://www.svgrepo.com/show/354238/python.svg" />][py]
 
+ </div>
+ 
 [ts]:https://www.typescriptlang.org/docs/
 [js]:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [node]:https://nodejs.org/en/docs/
