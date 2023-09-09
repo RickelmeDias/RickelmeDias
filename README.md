@@ -2,7 +2,7 @@
 
 > Hello, visitor! Welcome to a Software Developer and Engineer GitHub. I work and study with software for many years.
 
-<img align='right' src="./spin-pokemon-yellow.gif" width="280" >
+<img align='right' src="https://github.com/RickelmeDias/RickelmeDias/assets/43411893/480a09a5-9813-4a99-ab3d-6ada3b307837" width="200" >
 
 <div>
   
