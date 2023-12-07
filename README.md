@@ -2,7 +2,19 @@
 
 > Hello, visitor! Welcome to a Software Developer and Engineer GitHub. I work and study software for many years.
 
-<img align='right' src="https://github.com/RickelmeDias/RickelmeDias/assets/43411893/480a09a5-9813-4a99-ab3d-6ada3b307837" width="200" >
+##### About me.
+
+> I really like coding, data structures and math. Feel free to text me! I am open to talk and help to find solutions.
+>
+> I started my journey as developer and creative when I was young, about 11 years old I started to study drawing (I sometimes draw yet), when I was 13 yo I started developing games with Game Maker using the Game Maker Language (It is like Javascript) and I participated on the biggest online Game Maker Brasil Forum making some questions and tutorials ([you can see a post from my profile in 2013](https://gmbr.forumeiros.com/t29470-aula-06criando-objeto-e-programando)).
+>
+> When I was about 17 yo I helped a member from the forum to make his game ([The Crown Stones Mirrah](https://www.youtube.com/watch?v=lkytTx3EMbE)), during my first University at Fatec I developed some games for a game jams, robots for Research Groups until about 19 yo I get hired as Intern.
+>
+> In 2019 when I was 19 yo I worked developing [from scratch with C++ a robot AGV](https://www.youtube.com/watch?v=U1XRoelClRw&ab_channel=RickelmeDias) for the company and support web systems, after 10 months I was hired as full-time at the company for support web systems and I year later I got my first job as full-stack developer with js, ts, java and more at Bosch Campinas where I worked about 2 years with a grant from government to make research and development ([Bosch Experience](https://rickelmedias.dev/#boschxp)). I currently work as a service provider as a java developer.
+>
+> I am currently a student of Computer Engineer at Facens (Faculdade de Engenharia de Sorocaba), it is a very good university of engineering. In this university I am tutor and organizer of a study group of competitive programming, there I teach and manage classes and exercises of mathematics, data structures and others, [you can see our repository](https://github.com/RickelmeDias/CPLab).
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickelmedias&hide=javascript,css,scss,html&theme=tokyonight" width="350" >
 
 <div>
   
@@ -31,12 +43,29 @@
 
 ###### What I usually do?
 
-> Usually I solve contests like competitive programming, I develop some algorithms using cpp, python or java, create some web pages, help people with game logics in Unity, study new languages like english, and more...
+> Usually I solve contests like competitive programming, I develop some algorithms using cpp, python or java, create some web pages, help people with game logics in Unity, study new languages like english, and more... I also like practice sports, play games, animals (i have a dog), and hang out with friends.
 
-###### About me.
 
-> I really like coding, data structures and math. Feel free to text me! I am open to talk and help to find solutions.
- 
+##### Constantly Learning
+
+###### Fundamentals and Concepts
+
+> I usually study the computer science concepts like data structures, graphs, algorithms, optmization (Big O) and more. It because I love the computation concepts and to learn about them.
+
+###### Maths & Physics
+
+> I am currently improving my knowledge in mathematics to soon also strengthen a little in physics and be able to apply improvements to my game algorithms. Math is very usefull for the better understanding many computer science concepts.
+
+###### Game Development
+
+> Since young (2013) I am learning about games and game development, things like: gdd, pixel art, drawing, game engines, 3d, sounds and more. I learn deeper about things near from my career, such as: coding game, game development, engines and game design.
+
+> I already used the Game Maker 8.1, Game Maker Studio, Unity and a little bit of Unreal for study game development.
+
+###### Language 
+
+> I am learning every day and reading many documents in English. Today it is my main language to find solutions and study about programming. I also consume some portuguese contents that I like.
+
 [ts]:https://www.typescriptlang.org/docs/
 [js]:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [node]:https://nodejs.org/en/docs/
