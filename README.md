@@ -9,7 +9,7 @@ I'm a passionate Computer Engineer with a keen interest in Software Development,
 
 ### I'm currently learning:
 
-- Software Deveopment, Java, C++, Python;
+- Software Development, Java, C++, Python;
 - Advanced algorithms in DSA.
 
 ### Skills:
